@@ -11,3 +11,8 @@ console.log(price);
 const dress = ["shirt", "pant", "jacket"];
 dress.push("mafler", "shocks");
 console.log(dress);
+
+//? in Object
+const student = { name: "jaglul", marks: 50 };
+student.marks = 70;
+console.log(student);
