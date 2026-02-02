@@ -9,6 +9,5 @@ const keys = Object.keys(employee);
 console.log(keys);
 const values = Object.values(employee);
 console.log(values);
-
 const enries = Object.entries(employee);
 console.log(enries);
